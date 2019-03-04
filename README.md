@@ -2,16 +2,25 @@
 
 Repo for discussion & design of Trivjoy (https://trivjoy.com).
 
+## Description
+
+Trivjoy is a portal where people can connect and meet together in real life to enjoy travel together, and get a joy!
+
+- https://tanibisa.com - https://tanibisa.netlify.com
+- https://api.tanibisa.com - https://tanibisa.herokuapp.com
+
+## Repositories
+
+- Organization
+  - https://github.com/tanibisa
+- Discussion
+  - https://github.com/trivjoy/trivjoy
 - Frontend
   - https://trivjoy.netlify.com
   - https://github.com/trivjoy/trivjoy-frontend
 - Backend
   - https://trivjoy.herokuapp.com
   - https://github.com/trivjoy/trivjoy-backend
-
-## Description
-
-Trivjoy is a portal where people can connect and meet together in real life to enjoy travel together, and get a joy!
 
 ## Logo
 
