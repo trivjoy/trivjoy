@@ -1,0 +1,2 @@
+# trivjoy
+Trivjoy discussion + design
