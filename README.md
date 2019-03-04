@@ -24,6 +24,12 @@ Trivjoy is a portal where people can connect and meet together in real life to e
 
 ## Logo
 
+https://www.figma.com/file/gUPsT6NLIHAXDeMok0LMHqxZ/Logo
+
 ![](./assets/trivjoy-logo1.png)
 
 ![](./assets/trivjoy-logo2.png)
+
+## Desktop
+
+https://www.figma.com/file/YOzgpzfkXvH3rNrE9G8DZf40/Desktop
