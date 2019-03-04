@@ -1,2 +1,3 @@
-# trivjoy
-Trivjoy discussion + design
+# Trivjoy
+
+Repo for discussion & design of Trivjoy (https://trivjoy.com).
