@@ -2,6 +2,8 @@
 
 Repo for discussion & design of Trivjoy (https://trivjoy.com).
 
+Slide: https://docs.google.com/presentation/d/1oucL8qCtnzLTnyw1RQs2qLDBFLfQWVmDcoF_s_jnc8w
+
 ## Description
 
 Trivjoy is a portal where people can connect and meet together in real life to enjoy travel together, and get a joy!
